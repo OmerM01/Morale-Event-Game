@@ -20,7 +20,7 @@ export default function Header() {
   return (
     <>
       <header className="game-header">
-        <div className="header-logo">What&apos;s In <span>the</span> Box?</div>
+        <div className="header-logo">XLIL <span>Morale</span> Event Game</div>
 
         <div className="teams-rail">
           {teams.map((team) => {
